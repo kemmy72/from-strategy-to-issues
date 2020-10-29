@@ -5,7 +5,13 @@
 write a short description of your web page:
 
 - what is it about?
+
+It is about organising every progress with issues and the project board 
+
 - who would want to read it?
+
+Any user working on the programming project
+
 - why would they want to read it?
 
 
