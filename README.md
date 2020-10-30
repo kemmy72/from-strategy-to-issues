@@ -6,7 +6,7 @@ I'm working on the development strategy in my team
 
 ## Team's names of group 4 are:
 [Tiago](tiago.md)....
-Patrick,
+[Patrick](patrick.md)....
 Bermarte,
 Burak,
 Kemi,
