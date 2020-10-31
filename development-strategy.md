@@ -120,7 +120,7 @@ __As a site visitor, I want to learn more about *Burak*__
 
 ### Repo
 
-This user story was developed on a brach called `burak`
+This user story was developed on a branch called `burak`
 
 ### burak.md
 
