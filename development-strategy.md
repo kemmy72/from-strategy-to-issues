@@ -154,7 +154,7 @@ __As a site visitor, I want to learn more about *Divya*__
 
 ### Repo
 
-This user story was developed on a brach called `divya`
+This user story was developed on a branch called `divya`
 
 ### divya.md
 
