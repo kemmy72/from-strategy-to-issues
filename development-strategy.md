@@ -137,7 +137,7 @@ __As a site visitor, I want to learn more about *Kemi*__
 
 ### Repo
 
-This user story was developed on a brach called `kemi`
+This user story was developed on a branch called `kemi`
 
 ### kemi.md
 
